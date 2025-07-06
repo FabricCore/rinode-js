@@ -1,6 +1,6 @@
 {
     "name": "rinode",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Node.js simulator for Rhino.",
 
     "keywords": [],
@@ -20,6 +20,7 @@
         "fs": "0.1.0",
         "require": "0.1.0",
         "promise": "0.1.0",
-        "fetch": "0.1.0"
+        "fetch": "0.1.0",
+        "timer": "0.1.0"
     }
 }
